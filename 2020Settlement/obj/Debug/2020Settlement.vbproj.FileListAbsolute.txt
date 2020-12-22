@@ -1,0 +1,15 @@
+D:\Excelplug-in\2020Settlement\2020Settlement\bin\Debug\2020Settlement.dll
+D:\Excelplug-in\2020Settlement\2020Settlement\bin\Debug\2020Settlement.pdb
+D:\Excelplug-in\2020Settlement\2020Settlement\bin\Debug\2020Settlement.xml
+D:\Excelplug-in\2020Settlement\2020Settlement\bin\Debug\2020Settlement.dll.manifest
+D:\Excelplug-in\2020Settlement\2020Settlement\bin\Debug\2020Settlement.vsto
+D:\Excelplug-in\2020Settlement\2020Settlement\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\_2020Settlement.addtools.resources
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\_2020Settlement.Resources.resources
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\2020Settlement.vbproj.GenerateResource.cache
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\2020Settlement.vbproj.CoreCompileInputs.cache
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\2020Settlement.vbproj.CopyComplete
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\2020Settlement.dll
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\2020Settlement.xml
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\2020Settlement.pdb
+D:\Excelplug-in\2020Settlement\2020Settlement\obj\Debug\_2020Settlement.DelForm.resources
